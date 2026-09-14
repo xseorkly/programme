@@ -1,0 +1,69 @@
+from pathlib import Path
+
+p = Path("index.html")
+s = p.read_text(encoding="utf-8")
+
+if 'id="competences"' in s:
+    print("Tableau des compétences déjà présent.")
+    raise SystemExit(0)
+
+css = r'''
+/* --- Tableau des 9 compétences de fin de cycle --- */
+.competence-table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:13px;background:#fff;box-shadow:0 7px 24px rgba(0,0,70,.06)}
+.competence-table{width:100%;border-collapse:collapse;min-width:820px}
+.competence-table th{background:var(--b);color:#fff;text-align:left;padding:12px 13px;font-size:.79rem;letter-spacing:.02em}
+.competence-table td{padding:12px 13px;border-top:1px solid var(--line);vertical-align:top;font-size:.88rem;line-height:1.45}
+.competence-table tr:hover td{background:#fafafe}
+.competence-theme{width:105px;font-weight:850;color:var(--b)}
+.competence-code{width:78px}
+.competence-code span{display:inline-block;min-width:54px;text-align:center;padding:4px 8px;border-radius:999px;background:var(--soft);color:var(--b);font-weight:850;font-size:.76rem}
+.competence-action{width:155px;text-align:right}
+.competence-link{border:1px solid var(--b);background:#fff;color:var(--b);border-radius:7px;padding:7px 9px;font-weight:750;font-size:.76rem;cursor:pointer;white-space:nowrap}
+.competence-link:hover{background:var(--b);color:#fff}
+.competence-group-start td{border-top:3px solid #d8d8e8}
+.competence-intro{display:flex;justify-content:space-between;align-items:flex-end;gap:18px;margin-bottom:14px}
+.competence-intro p{margin:0;max-width:78ch;color:var(--mut);font-size:.9rem}
+.competence-source{font-size:.78rem;white-space:nowrap}
+.competence-source a{text-decoration:none;font-weight:750}
+@media(max-width:720px){.competence-intro{display:block}.competence-source{margin-top:8px}.competence-table-wrap{margin-left:-2px;margin-right:-2px}}
+'''
+s = s.replace("</style>", css + "\n</style>", 1)
+
+nav_old = '  <a href="#nouveau-programme">Programme</a>\n  <a href="#recherche">Recherche</a>'
+nav_new = '  <a href="#nouveau-programme">Programme</a>\n  <a href="#competences">Compétences</a>\n  <a href="#recherche">Recherche</a>'
+if nav_old in s:
+    s = s.replace(nav_old, nav_new, 1)
+
+section = r'''
+<section id="competences">
+  <div class="section-title"><h2>Les 9 compétences travaillées en Technologie au cycle 4</h2><p>Les compétences de fin de cycle du programme 2024, organisées selon les trois thèmes OST, SFC et CCRI.</p></div>
+  <div class="competence-intro">
+    <p>Ce tableau constitue un repère central pour construire les séquences et la progression 5e → 4e → 3e. Le bouton <b>Voir les ressources</b> lance directement une recherche dans le corpus du portail sur la compétence concernée.</p>
+    <div class="competence-source"><a href="https://sti.eduscol.education.fr/sites/eduscol.education.fr.sti/files/textes/16802-programme-de-technologie-c4.pdf" target="_blank" rel="noopener">Programme officiel ↗</a></div>
+  </div>
+  <div class="competence-table-wrap">
+    <table class="competence-table">
+      <thead><tr><th>Thème</th><th>Code</th><th>Compétence de fin de cycle</th><th>Ressources</th></tr></thead>
+      <tbody>
+        <tr><td class="competence-theme" rowspan="3">OST</td><td class="competence-code"><span>OST1</span></td><td>Décrire les liens entre usages et évolutions technologiques des objets et des systèmes techniques.</td><td class="competence-action"><button class="competence-link" onclick="showFiltered('','','évolution')">Voir les ressources</button></td></tr>
+        <tr><td class="competence-code"><span>OST2</span></td><td>Décrire les interactions entre un objet ou un système technique, son environnement et les utilisateurs.</td><td class="competence-action"><button class="competence-link" onclick="showFiltered('','','interactions')">Voir les ressources</button></td></tr>
+        <tr><td class="competence-code"><span>OST3</span></td><td>Caractériser et choisir un objet ou un système technique selon différents critères.</td><td class="competence-action"><button class="competence-link" onclick="showFiltered('','','critères')">Voir les ressources</button></td></tr>
+        <tr class="competence-group-start"><td class="competence-theme" rowspan="3">SFC</td><td class="competence-code"><span>SFC1</span></td><td>Décrire et caractériser l’organisation interne d’un objet ou d’un système technique et ses échanges avec son environnement (énergies, données).</td><td class="competence-action"><button class="competence-link" onclick="showFiltered('','','organisation interne')">Voir les ressources</button></td></tr>
+        <tr><td class="competence-code"><span>SFC2</span></td><td>Identifier un dysfonctionnement d’un objet technique et y remédier.</td><td class="competence-action"><button class="competence-link" onclick="showFiltered('','','réparabilité')">Voir les ressources</button></td></tr>
+        <tr><td class="competence-code"><span>SFC3</span></td><td>Comprendre et modifier un programme associé à une fonctionnalité d’un objet ou d’un système technique.</td><td class="competence-action"><button class="competence-link" onclick="showFiltered('','','programmation')">Voir les ressources</button></td></tr>
+        <tr class="competence-group-start"><td class="competence-theme" rowspan="3">CCRI</td><td class="competence-code"><span>CCRI1</span></td><td>Imaginer, concevoir et réaliser une ou des solutions en réponse à un besoin, à des exigences (de développement durable, par exemple) ou à la nécessité d’améliorations dans une démarche de créativité.</td><td class="competence-action"><button class="competence-link" onclick="showFiltered('','','conception')">Voir les ressources</button></td></tr>
+        <tr><td class="competence-code"><span>CCRI2</span></td><td>Valider les solutions techniques par des simulations ou par des protocoles de tests.</td><td class="competence-action"><button class="competence-link" onclick="showFiltered('','','validation')">Voir les ressources</button></td></tr>
+        <tr><td class="competence-code"><span>CCRI3</span></td><td>Concevoir, écrire, tester et mettre au point un programme.</td><td class="competence-action"><button class="competence-link" onclick="showFiltered('','','programme')">Voir les ressources</button></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="programme-note"><b>Conseil d’utilisation :</b> associer chaque séquence à une ou plusieurs de ces compétences, puis vérifier la montée en complexité avec les repères de progressivité 5e, 4e et 3e.</div>
+</section>
+'''
+
+anchor = '</section>\n\n<section class="functions" id="fonctions">'
+if anchor not in s:
+    raise SystemExit("Ancre d’insertion introuvable dans index.html")
+s = s.replace(anchor, '</section>\n\n' + section + '\n<section class="functions" id="fonctions">', 1)
+p.write_text(s, encoding="utf-8")
+print("Tableau des 9 compétences ajouté à index.html.")
