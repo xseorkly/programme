@@ -1,0 +1,367 @@
+5ème
+Séquence :
+séance :
+L’évolution des OST
+Collecter, trier et analyser des données Comparer des principes
+techniques pour une même fonction technique
+
+Usages et impacts sociétaux du numérique
+Décrire le rôle des systèmes d’information dans le partage d’information
+Recenser des données, les identifier, les classer, les représenter, les
+stocker dans des fichiers, les retrouver dans une arborescence
+Identifier des règles permettant de sécuriser un environnement
+numérique (bases de la cybersécurité) et des règles de respect de la
+propriété intellectuelle
+Appréhender la responsabilité de chacun dans les dérives
+(cyberviolence, atteinte à la vie privée, aux données personnelles,
+usurpation d’identité)
+
+L’OST dans son environnement
+Faire la liste des interacteurs extérieurs d’un OST
+Repérer et expliquer les choix de conception dans les domaines de
+l’ergonomie et de la sécurité ou en lien avec des objectifs de
+développement durable
+
+Le choix d’un OST dans un contexte de développement durable
+
+Séquence :
+séance :
+
+Séquence :
+séance :
+
+Repérer pour un OST les matériaux, les sources et les formes d’énergie,
+le traitement de l’information
+Identifier les étapes du cycle de vie d’un OST influencées par les choix
+de matériaux et d’énergie
+Choisir un OST parmi plusieurs propositions en vue de répondre à un
+besoin
+
+La performance des OST
+Mesurer et comparer une performance d’un OST à partir d’un protocole
+fourni
+
+Fonctions, solutions, constituants de la chaine d’énergie
+Associer des solutions techniques à une ou des fonctions techniques
+Identifier des constituants de la chaîne d’énergie d’un objet technique
+(l’organisation de la chaîne d’énergie étant fournie)
+Indiquer la nature des énergies en entrée et en sortie des constituants de
+la chaîne d’énergie
+
+Matériaux et procédés
+Identifier les principaux matériaux constitutifs d’un OST
+
+Fonctions, solutions, constituants de la chaîne d’information
+Identifier des constituants de la chaîne d’information d’un OST
+(l’organisation de la chaîne d’information étant fournie)
+
+Structuration et traitement des données
+Déterminer des descripteurs permettant de décrire des objets sous forme
+de données en précisant leurs types et leurs formats
+
+La circulation de l’information dans un réseau informatique
+
+Identifier les composants qui constituent un réseau local (terminaux,
+commutateurs, liaisons filaires et sans fil (WiFi)) et sa topologie
+Justifier la nécessité d’identifier les terminaux pour communiquer sur un
+réseau local (activité débranchée et vérification par un outil de simulation)
+
+Le dépannage et la réparation
+Repérer visuellement une pièce défectueuse
+Réaliser une réparation en suivant un protocole fourni
+Découvrir les procédés de réalisation présents dans un atelier de
+fabrication collaboratif
+
+La programmation d’une nouvelle fonctionnalité
+Identifier les données utilisées et produites par le programme associé à
+une fonctionnalité d’un OST (à partir d’un programme existant)
+Comprendre et traduire en un algorithme en langage naturel le
+programme associé à une fonctionnalité d’un OST
+Modifier les paramètres d’un programme et identifier ou évaluer ses
+effets en termes de fonctionnalité
+
+La gestion de projet technique
+Suivre un processus de conception et de réalisation dans une durée,
+avec des tâches identifiées
+
+Le prototypage de solutions
+Fabriquer une solution pour améliorer un OST existant
+
+Le choix des matériaux
+Choisir un matériau parmi plusieurs proposés en fonction de leurs
+caractéristiques
+
+Le choix d’une source d’énergie
+Choisir une source d’énergie parmi plusieurs proposées et une forme
+d’énergie possible
+
+L’assemblage de constituants
+Assembler les constituants fournis pour réaliser un prototype
+
+La modélisation et la fabrication
+Mettre en œuvre les moyens pour réaliser une forme selon une
+procédure fournie
+
+La validation du comportement mécanique d’un matériau
+Utiliser une simulation fournie pour valider la tenue mécanique d’un
+matériau
+Mettre en œuvre un protocole de test fourni pour valider la tenue
+mécanique d’un matériau
+
+La validation des performances d’un OST
+Vérifier le comportement et les performances d’un objet technique en
+suivant un protocole fourni
+
+La programmation des OST
+Analyser un programme simple fourni et tester s’il répond au besoin ou
+au problème posé
+Modifier un programme fourni pour répondre au besoin ou à un problème
+posé
+Réaliser et mettre au point un programme simple commandant un OST
+
+4ème
+Séquence :
+séance :
+L’évolution des OST
+Mettre en relation les OST avec leurs usages
+Identifier les avantages et les inconvénients associés aux évolutions
+technologiques et informatiques
+Justifier l’évolution d’un OST pour répondre à l’évolution des besoins
+
+Usages et impacts sociétaux du numérique
+Identifier et appliquer les règles pour un usage raisonné des objets
+communicants et des environnements numériques (propriété
+intellectuelle, identité numérique, témoins de connexion,
+géolocalisation
+
+L’OST dans son environnement
+Décrire l’expérience de l’utilisateur (ressenti et facilité d’usage) d’un
+OST en partant du langage naturel (texte, croquis) pour aboutir aux
+schémas, graphiques, algorithmes
+Repérer et expliquer les contraintes, exigences prises en compte
+(sécurité, incidences environnementales, formes et fonctions,
+ergonomie, qualité, fiabilité) pour répondre aux attentes des utilisateurs
+
+Le choix d’un OST dans un contexte de développement durable
+Identifier les caractéristiques à prendre en compte dans le choix d’un
+OST en vue de répondre à un besoin
+Comparer qualitativement et/ou quantitativement (incidences
+environnementales, bilan carbone, efficacité énergétique) plusieurs
+OST répondant au même besoin et arrêter un choix
+
+La performance des OST
+Choisir les appareils de mesure à utiliser pour mesurer une
+performance d’un OST à partir d’un protocole donné
+
+Fonctions, solutions, constituants de la chaine d’énergie
+Identifier les constituants d’une chaîne d’énergie et les associer à leurs
+fonctions
+
+Repérer les transformations d’énergie et les flux d’énergie au sein de
+l’OST
+
+Matériaux et procédés
+Mettre en relation la forme d’une pièce avec le procédé de réalisation
+
+Fonctions, solutions, constituants de la chaîne d’information
+Identifier les constituants de la chaîne d’information d’un objet réel et
+les associer à leur fonction
+
+Structuration et traitement des données
+Décrire et analyser la transformation des données téléversées ou
+issues d’un OST
+Décrire et analyser la structuration d’une table de données qui permet
+une exploitation et une interprétation du comportement d’un OST
+
+La circulation de l’information dans un réseau informatique
+Paramétrer une adresse IP fixe pour ajouter un objet connecté à un
+réseau local.
+Résoudre des problèmes pour assurer la communication entre les
+différents terminaux dans un réseau informatique (simulation ou
+réseau local déconnecté du réseau pédagogique
+Compléter une simulation fournie pour valider le comportement d’un
+réseau informatique
+
+Le dépannage et la réparation
+Proposer un protocole permettant de vérifier l’origine d’un
+dysfonctionnement
+Remplacer une pièce défectueuse sans protocole fourni (la pièce de
+remplacement étant fournie)
+Choisir les procédés de réalisation et les mettre en œuvre
+
+La programmation d’une nouvelle fonctionnalité
+Analyser les données et en déduire des modifications à apporter au
+programme
+Compléter un programme pour répondre à une fonctionnalité d’un OST
+Tester et valider, dans un environnement simulé ou réel, une
+modification du programme
+
+La gestion de projet technique
+Organiser un processus de conception et de réalisation dans une
+durée, avec des tâches identifiées
+
+Le prototypage de solutions
+Proposer et fabriquer une solution pour ajouter une nouvelle fonction à
+un OST (croquis, schéma, graphique, algorithme, modélisation)
+
+Le choix des matériaux
+Comparer différents matériaux pour choisir le plus adapté
+
+Le choix d’une source d’énergie
+Comparer différentes sources d’énergie pour choisir la plus adapté
+
+L’assemblage de constituants
+Identifier les constituants manquants dans un prototype et le compléter
+
+La modélisation et la fabrication
+Modifier une forme à l’aide d’une modélisation
+Choisir les moyens et produire la forme voulue
+
+Les objets communicants
+Interfacer un objet technique avec un réseau
+
+La validation du comportement mécanique d’un matériau
+Paramétrer une simulation fournie pour valider la tenue mécanique
+d’un matériau
+Proposer un protocole de test pour valider la tenue mécanique d’un
+matériau
+
+La validation des performances d’un OST
+Proposer un protocole de test pour valider le comportement et les
+performances d’un objet technique
+
+La programmation des OST
+Modifier un algorithme permettant de répondre au besoin ou au
+problème posé
+Traduire un algorithme permettant de répondre à un besoin ou à un
+problème simple en un programme.
+Réaliser et mettre au point un programme commandant un système
+réel incluant éventuellement une interaction entre un humain et une
+machine
+
+Séquence :
+séance :
+
+Séquence :
+séance :
+
+3ème
+Séquence :
+séance :
+L’évolution des OST
+Identifier les innovations de rupture qui sont attachées à l’évolution
+d’un OST
+Mettre en relation une découverte scientifique avec ses
+développements technologiques et leurs effets sur la société
+Exprimer dans un argumentaire court l’incidence d’un OST sur la
+société
+Exprimer dans un argumentaire court l’incidence des contraintes
+sociétales sur les OST
+
+Usages et impacts sociétaux du numérique
+Exprimer dans un argumentaire court le rôle du développement
+stratégique du numérique au sein de la société et des environnements
+professionnels (ou des métiers)
+
+L’OST dans son environnement
+Décrire l’expérience de l’utilisateur d’un OST à l’aide de modes de
+représentation choisis
+
+Le choix d’un OST dans un contexte de développement durable
+Établir une liste d’OST possibles en vue de répondre à un besoin
+Choisir un OST et argumenter ce choix en prenant en compte son
+cycle de vie et les trois piliers du développement durable
+Évaluer les OST selon des exigences ou des critères identifiés
+(caractéristiques, performances, coût, indice de réparabilité)
+
+La performance des OST
+Définir et mettre en œuvre un protocole pour mesurer une
+caractéristique, une performance d’un OST
+
+Fonctions, solutions, constituants de la chaine d’énergie
+Élaborer, à l’aide d’un schéma bloc, la chaîne d’énergie d’un OST
+
+Matériaux et procédés
+Justifier le choix d’un matériau et de son procédé de mise en forme au
+regard des contraintes techniques et environnementales
+
+Fonctions, solutions, constituants de la chaîne d’information
+Décrire un OST en caractérisant sa chaîne d’information
+Associer des grandeurs analogiques issues d’un OST à des données
+exploitables
+
+Structuration et traitement des données
+Représenter sous forme de données les informations de diverses
+natures utilisées par un OST
+Identifier, selon les cas, leur mise en forme, leur transmission, ou leur
+stockage dans des fichiers (texte, image, nombre) afin de comprendre
+le fonctionnement de l’OST
+
+La circulation de l’information dans un réseau informatique
+Identifier et représenter la circulation d’une information dans le réseau
+Internet
+Justifier la nécessité d’un protocole de routage pour faire
+communiquer plusieurs réseaux (activité débranchée, table de routage
+donnée)
+
+Le dépannage et la réparation
+Formuler des hypothèses expliquant le dysfonctionnement d’un objet
+technique
+Proposer un protocole de dépannage puis de réparation
+Réaliser le dépannage ou la réparation d’un système défectueux
+Réaliser une pièce sur mesure pour réparer un objet technique
+
+La programmation d’une nouvelle fonctionnalité
+Déterminer les données utilisées et produites par un programme
+associé à une fonctionnalité en vue de le modifier
+Programmer un algorithme lié à une nouvelle fonctionnalité
+Modifier et tester le programme associé à une nouvelle fonctionnalité
+d’un OST
+
+La gestion de projet technique
+Élaborer un processus de conception et de réalisation dans une durée,
+avec des tâches identifiées
+
+Le prototypage de solutions
+Proposer et fabriquer un ensemble de solutions pour produire un
+nouvel OST (croquis, schéma, graphique, algorithme, modélisation)
+
+Le choix des matériaux
+Choisir un matériau constitutif d’un objet et/ou système technique
+
+Le choix d’une source d’énergie
+Choisir une source d’énergie pour un OST
+
+L’assemblage de constituants
+Choisir les constituants et assembler un prototype
+
+La modélisation et la fabrication
+Modéliser une forme voulue
+Choisir les moyens et produire la forme voulue
+
+Les objets communicants
+Interfacer deux objets techniques communicants
+
+La validation du comportement mécanique d’un matériau
+Mettre en œuvre une simulation pour valider la tenue mécanique d’un
+matériau
+Proposer un protocole de test pour valider la tenue mécanique d’un
+matériau
+
+La validation des performances d’un OST
+Proposer un protocole de test pour valider le comportement et les
+performances d’un objet technique
+
+La programmation des OST
+Élaborer ou concevoir un algorithme permettant de répondre au besoin
+visé, puis le traduire en un programme structuré (appel de sousprogrammes ou de fonctions), le tester et le mettre au point
+Réaliser et mettre au point un programme commandant un système
+réel incluant une interaction entre un humain et une machine
+
+Séquence :
+séance :
+
+Séquence :
+séance :
+
+
