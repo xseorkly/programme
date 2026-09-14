@@ -1,0 +1,5 @@
+Comment construire une séance de technologie — démarche de conception
+
+Une démarche en cinq étapes pour concevoir la séance côté enseignant, puis comprendre la séance telle qu’elle est vécue par l’élève.
+
+Côté enseignant : 1) identifier les compétences et connaissances du programme ; 2) prévoir la structuration des connaissances ; 3) construire l’évaluation en tenant compte des repères de progressivité ; 4) identifier un problème technologique à résoudre ; 5) choisir les activités d’apprentissage et les supports adaptés. Côté élève, l’ordre est vécu différemment : problème technologique → activités d’investigation/réflexion/action → structuration → évaluation → compétences et connaissances acquises. Cette inversion est utile pour concevoir une séance réellement centrée sur les apprentissages.
